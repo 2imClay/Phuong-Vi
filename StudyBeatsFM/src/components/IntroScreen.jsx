@@ -24,8 +24,8 @@ const Hero = () => {
         </div>
         <div className="titleContainer">
           <img className="heroLogo" src={logo} alt="" />
-          <h1 className="tracking-in-expand-fwd">StudyBeats</h1>
-          <h3 className="subTitle"> An Online Music Player </h3>
+          <h1 className="tracking-in-expand-fwd">Phương Vi</h1>
+          <h3 className="subTitle"> Hello em yêu </h3>
           <div class="note-position-1 note-amination">&#9835;</div>
           <div class="note-position-2 note-amination animation-delay-2">
             &#9833;
